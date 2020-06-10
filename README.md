@@ -3,8 +3,8 @@
 
 
 ### Next in plan:
-[] Dockerize the application
-[] Add css to html
+- [ ] Dockerize the application
+- [ ] Add css to html
 
 
 #### Contributing
